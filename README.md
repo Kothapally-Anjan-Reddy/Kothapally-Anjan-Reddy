@@ -75,14 +75,20 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kothapally-anjan-reddy-715b2b2a2">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/kothapally-anjan-reddy-715b2b2a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <a href="https://mail.google.com/mail/?view=cm&to=kothapallyanjan@gmail.com&su=GitHub%20Connection" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Kothapally-Anjan-Reddy">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/Kothapally-Anjan-Reddy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kKEHr8Sorj/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.chess.com/member/anjan_kothapally" target="_blank">
+    <img src="https://img.shields.io/badge/Chess-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" />
   </a>
 </p>
 
